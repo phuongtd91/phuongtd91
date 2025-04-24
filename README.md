@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm TRINH DUY PHUONG</h1>
-<h3 align="center">A PhD Student in Kitsuwan laboratory, The University of Electro - Communications, Tokyo, Japan</h3>
+<h3 align="center">A PhD Student in Kitsuwan laboratory</h3>
+<h3 align="center">The University of Electro - Communications, Tokyo, Japan</h3>
 
-- 🔭 I’m currently working on **Traffic engineering and Resource management in SDN, EON**
+- 🔭 My research aim to **Traffic engineering and Resource management in SDN, EON**
 
-- 📫 How to reach me **phuongtd@uec.ac.jp**
+- 📫 How to reach me **phuongtd@uec.ac.jp** **tdphuong@bcy.gov.vn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
